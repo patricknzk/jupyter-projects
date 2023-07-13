@@ -1,5 +1,5 @@
 # projects
-The python sudoku project was developed on my own when I gained an interest in programming. The rest of the projects were assignments from a unit.
+The python sudoku project was developed on my own when I gained an interest in programming. The rest of the projects were assignments from a programming unit.
 
 # sudoku.py
 This was my first big python project that was completed at the end of 2021, looking back at the code there are a lot of messy parts that slow down the code and a review is needed. However, this was a valuable project that taught me how to deal with programming challenges. I learnt that to deal with bigger problems you need to break them down, especially in this python file where there are many functions showcasing how much was involved. I learnt more about programming in this project than dealing with data in python, it was a very good first project. 
