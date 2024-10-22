@@ -1,5 +1,5 @@
 # projects
-The python sudoku project was developed on my own when I gained an interest in programming. The rest of the projects were assignments from a programming unit.
+Python projects developed in jupyter.
 
 # Approximation_Of_Pi.ipynb
 Numerical approximations of pi were estimated in python through an approximation of pi in another form. This helped understand how computers interpret numbers how that performing something that sounds trivial, such as computing the numbers of pi, can be computational intensive and is a great program to apply theory of computation to.
